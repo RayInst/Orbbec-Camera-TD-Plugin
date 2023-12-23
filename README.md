@@ -8,4 +8,4 @@ Support Models:
 【Dabai(2436)】 【Dabai DCW(2460)】 【Dabai DW(2606)】 【Astra Mini(2418)】 
 【Astra Mini Pro(1007)】 【Astra Pro Plus(2513)】【Gemini E(3460)】 【Gemini E Lite(3606)】 【Gemini(3.0.18)】 
 
-![ccdd7aa67afc9259f82193cb80bdbd8](https://github.com/RayInst/Orbbec-Camera-TD-Plugin/assets/99521832/3196b930-db59-4bb7-a3df-ef950ef29126)
+![orbbec](https://github.com/RayInst/Orbbec-Camera-TD-Plugin/assets/99521832/e3c48068-4b58-4ffe-b214-52b302e9b239)
