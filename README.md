@@ -15,9 +15,8 @@ Femto Mega	1.3.0
 Femto Mega I	2.0.4	
 Astra 2	2.8.20	
 
+<img width="1183" height="823" alt="f2fce568-0b7d-4dc0-b510-1d2ceea860c9" src="https://github.com/user-attachments/assets/670234ea-9850-4761-a22a-9279bea22cf2" />
 
-![orbbec](<img width="1183" height="823" alt="f2fce568-0b7d-4dc0-b510-1d2ceea860c9" src="https://github.com/user-attachments/assets/4dabd2dd-6430-42b7-8067-d2cabbd2caa9" />
-)
 
 
 
