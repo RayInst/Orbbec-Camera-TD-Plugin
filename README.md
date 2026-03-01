@@ -19,4 +19,5 @@ Astra 2	2.8.20
 
 
 
+<img width="1909" height="849" alt="orbbec plugin" src="https://github.com/user-attachments/assets/3d9b2c03-26a4-405c-9219-9ed45d566c22" />
 
