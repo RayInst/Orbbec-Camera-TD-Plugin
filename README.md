@@ -1,17 +1,9 @@
+Update Notes for Version v2.8
+
 🌟 New Features
+ Plug-and-Play LiDAR Integration: Added full support for Orbbec LiDAR sensors. The plugin auto-detects LiDAR devices, adapting the UI and routing point cloud data (X, Y, Z, Reflectivity) directly into native TouchDesigner CHOPs for instant 3D instancing. Includes dedicated LiDAR scan rate and Tail Filter controls.
 
-Plug-and-Play LiDAR Support: Full support for Orbbec LiDAR devices is now available! Simply connect your LiDAR, and the plugin will automatically detect it, adapt the user interface, and start streaming.
-Native 3D Instancing Ready: LiDAR point cloud data is now natively streamed into TouchDesigner channels (X, Y, Z, and Reflectivity/Intensity), making it instantly ready for 3D geometry instancing and rendering.
-Dedicated LiDAR Controls: Added new UI parameters to easily adjust LiDAR scanning profiles (frequencies) and hardware noise reduction (Tail Filter).
-LiDAR Motion Tracking: Accelerometer and Gyroscope (IMU) data from LiDAR devices is now fully supported.
-🛠 Stability & UX Improvements
-
-Smart Hardware Detection: The plugin is now smarter about your hardware capabilities. Features unsupported by your specific camera model (such as the Confidence Sensor) are automatically disabled in the UI to prevent accidental freezes and pipeline crashes.
-Better Error Feedback: Network timeouts and connection issues are now clearly communicated directly within the TouchDesigner interface, eliminating silent connection failures.
-Cleaner UI State: The device information panel now properly resets itself when a camera is disconnected.
-✨ Image Quality Enhancements
-
-Edge Noise Removal: The Edge Noise Removal filter is now fully operational. Enabling this will significantly reduce jagged edges and flying pixels in your depth point clouds.
+ Comprehensive Post-Processing Filter Suite: Fully integrated and activated multiple hardware-accelerated depth filters. Users can now optimize point cloud quality using Spatial Filter, Hole Filling Filter, Threshold Filter, Edge Noise Removal, and Confidence Filter, drastically reducing noise and jagged edges.
 
 SDK vesion 2.1.1
 
